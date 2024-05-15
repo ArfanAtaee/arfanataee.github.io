@@ -9216,7 +9216,7 @@
                                             "aria-label": "github",
                                             rel: "noreferrer",
                                             target: "_blank",
-                                            href: "https://github.com/arfanataee",
+                                            href: "https://github.com/ArfanAtaie",
                                             children: (0,
                                             S.jsx)(C, {
                                                 width: 32,
@@ -9468,7 +9468,7 @@
                                     "aria-label": "github",
                                     target: "_blank",
                                     rel: "noreferrer",
-                                    href: "https://github.com/arfanataee",
+                                    href: "https://github.com/ArfanAtaie",
                                     children: (0,
                                     S.jsx)(C, {
                                         width: 30,
